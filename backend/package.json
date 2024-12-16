@@ -1,5 +1,5 @@
 {
-  "name": "task-management-backend",
+  "name": "backend",
   "version": "1.0.0",
   "description": "backend for time management system",
   "main": "app.js",
